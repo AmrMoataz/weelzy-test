@@ -1,0 +1,6 @@
+@Weelzy.Test.ThirdPartyAPI_HostAddress = http://localhost:5116
+
+GET {{Weelzy.Test.ThirdPartyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

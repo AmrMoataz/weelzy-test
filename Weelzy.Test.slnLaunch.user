@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Weelzy.Test.ThirdPartyAPI\\Weelzy.Test.ThirdPartyAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "Weelzy.Test.APIInsteadOfNotWorkingAPI\\Weelzy.Test.APIInsteadOfNotWorkingAPI.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

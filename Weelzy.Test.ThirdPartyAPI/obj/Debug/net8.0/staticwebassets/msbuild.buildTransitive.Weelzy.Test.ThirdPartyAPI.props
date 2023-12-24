@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Weelzy.Test.ThirdPartyAPI.props" />
+</Project>
