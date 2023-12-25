@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\bin\Debug\net8.0\Weelzy.Test.ChessMoves.exe
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\bin\Debug\net8.0\Weelzy.Test.ChessMoves.deps.json
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\bin\Debug\net8.0\Weelzy.Test.ChessMoves.runtimeconfig.json
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\bin\Debug\net8.0\Weelzy.Test.ChessMoves.dll
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\bin\Debug\net8.0\Weelzy.Test.ChessMoves.pdb
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\Weelzy.Test.ChessMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\Weelzy.Test.ChessMoves.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\Weelzy.Test.ChessMoves.AssemblyInfo.cs
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\Weelzy.Test.ChessMoves.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\Weelzy.Test.ChessMoves.sourcelink.json
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\Weelzy.Test.ChessMoves.dll
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\refint\Weelzy.Test.ChessMoves.dll
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\Weelzy.Test.ChessMoves.pdb
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\Weelzy.Test.ChessMoves.genruntimeconfig.cache
+C:\Users\HP\Desktop\WeelzyTest\Weelzy.Test.ChessMoves\obj\Debug\net8.0\ref\Weelzy.Test.ChessMoves.dll

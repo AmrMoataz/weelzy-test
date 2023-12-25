@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34321.82
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weelzy.Test.ThirdPartyAPI", "Weelzy.Test.ThirdPartyAPI\Weelzy.Test.ThirdPartyAPI.csproj", "{9ED9DE41-196C-4902-B587-3AC675FD6EE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Weelzy.Test.ThirdPartyAPI", "Weelzy.Test.ThirdPartyAPI\Weelzy.Test.ThirdPartyAPI.csproj", "{9ED9DE41-196C-4902-B587-3AC675FD6EE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weelzy.Test.APIInsteadOfNotWorkingAPI", "Weelzy.Test.APIInsteadOfNotWorkingAPI\Weelzy.Test.APIInsteadOfNotWorkingAPI.csproj", "{1D83C8CC-A73A-4ED9-A2DC-47D56F48B863}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weelzy.Test.ChessMoves", "Weelzy.Test.ChessMoves\Weelzy.Test.ChessMoves.csproj", "{71128874-D214-4265-ACFF-8DBB68762763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weelzy.Test.ChessMoves.Tests", "Weelzy.Test.ChessMoves.Tests\Weelzy.Test.ChessMoves.Tests.csproj", "{82125F77-A6A2-4A71-BD88-293CA3C6F84F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +19,14 @@ Global
 		{9ED9DE41-196C-4902-B587-3AC675FD6EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ED9DE41-196C-4902-B587-3AC675FD6EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ED9DE41-196C-4902-B587-3AC675FD6EE6}.Release|Any CPU.Build.0 = Release|Any CPU
-		{1D83C8CC-A73A-4ED9-A2DC-47D56F48B863}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1D83C8CC-A73A-4ED9-A2DC-47D56F48B863}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1D83C8CC-A73A-4ED9-A2DC-47D56F48B863}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1D83C8CC-A73A-4ED9-A2DC-47D56F48B863}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71128874-D214-4265-ACFF-8DBB68762763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71128874-D214-4265-ACFF-8DBB68762763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71128874-D214-4265-ACFF-8DBB68762763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71128874-D214-4265-ACFF-8DBB68762763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82125F77-A6A2-4A71-BD88-293CA3C6F84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82125F77-A6A2-4A71-BD88-293CA3C6F84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82125F77-A6A2-4A71-BD88-293CA3C6F84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82125F77-A6A2-4A71-BD88-293CA3C6F84F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
